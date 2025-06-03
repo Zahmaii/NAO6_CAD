@@ -1,0 +1,135 @@
+{
+  "intents" : [
+    {
+      "intent": "Diagnosis",
+      "examples": [
+        "I feel short of breath",
+        "Chest pressure",
+        "I get tired easily",
+        "Irregular heartbeat"
+      ],
+      "responses": [
+        "These symptoms require careful monitoring for cardiovascular health.",
+        "I'll monitor those signs closely and adjust your care plan.",
+        "Early symptom detection is important for heart health management.",
+        "It's good that you noticed. Early detection is key."
+      ]
+    },
+    {
+      "intent": "Treatment",
+      "examples": [
+        "What should I do",
+        "Do I need medication",
+        "Can exercise help"
+        ],
+      "responses": [
+        "I recommend a comprehensive heart-healthy lifestyle with regular monitoring.",
+        "Treatment may include medication, exercise, and dietary modifications.",
+        "A balanced approach of physical activity and nutrition supports heart health.",
+        "Daily movement and a proper diet will support your recovery."
+      ]
+    },
+    {
+      "intent": "Precaution",
+      "examples": [
+        "What should I avoid",
+        "How to prevent problems",
+        "Any safety tips",
+        "Warning signs to watch"
+      ],
+      "responses": [
+        "Avoid high-sodium foods, excessive stress, and overexertion.",
+        "Watch for chest pain, shortness of breath, or unusual fatigue.",
+        "Limit saturated fats, smoking, and maintain regular sleep patterns.",
+        "Monitor for dizziness, rapid heartbeat, or swelling as warning signs."
+      ]
+    },
+    {
+      "intent": "Dosage",
+      "examples": [
+        "When to take medicine",
+        "I need dosage information",
+        "What is my Medication schedule",
+        "Help me understand my heart medicine"
+      ],
+      "responses": [
+        "Take your heart medication at the same time daily for consistency.",
+        "Most cardiac medications are taken once daily with food.",
+        "Never skip doses, consistent timing maintains therapeutic levels.",
+        "Follow your prescribed schedule exactly as directed by your physician."
+      ]
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        "Hello, NAO",
+        "Hi, NAO",
+        "Hey, NAO",
+        "Morning, NAO"
+      ],
+      "responses": [
+        "Good morning! How are you today?",
+        "Hello! Any changes?",
+        "Welcome! Anything else to report?",
+        "Nice to see you."
+      ]
+    },
+    {
+      "intent": "CAD_Info",
+      "examples": [
+        "What is CAD",
+        "Tell me about heart disease",
+        "Explain coronary artery disease",
+        "Heart disease information"
+      ],
+      "responses": [
+        "CAD occurs when coronary arteries narrow due to plaque buildup, reducing blood flow to the heart muscle.",
+        "Coronary artery disease is the leading cause of heart attacks, caused by blocked arteries that supply your heart.",
+        "Heart disease develops when fatty deposits accumulate in arteries, making it harder for blood to reach your heart.",
+        "CAD happens when cholesterol and other substances form plaques in your coronary arteries, restricting heart circulation."
+      ]
+    },
+    {
+      "intent": "Quotes",
+      "examples": [
+        "Quote of the day",
+        "Give me a quote",
+        "Motivational quote",
+        "Share an inspiring quote"
+      ],
+      "responses": [
+        "The groundwork for all happiness is good health.",
+        "Health is not about the weight you lose, but about the life you gain.",
+        "A healthy outside starts from the inside.",
+        "Take care of your body. It's the only place you have to live."
+      ]
+    },
+    {
+      "intent": "Jokes",
+      "examples": [
+        "Tell me a joke",
+        "Make me laugh",
+        "Say Something funny"
+      ],
+      "responses": [
+        "Why did the guy fall off the swing? Because he had no arms.. ha ha ha",
+        "How does a penguin build a house? Iglue it together..",
+        "What did you call a fly with no wings? A walk..",
+        "What did the fish say when he slam into a wall? DAMN!"
+      ]
+    },
+    {
+      "intent": "Farewell",
+      "examples": [
+        "Thanks, that's all",
+        "See you next time",
+        "Goodbye"
+      ],
+      "responses": [
+        "Take care of yourself",
+        "Your welcome, I'll see you next time.",
+        "See you soon!"
+      ]
+    }
+  ]
+}
